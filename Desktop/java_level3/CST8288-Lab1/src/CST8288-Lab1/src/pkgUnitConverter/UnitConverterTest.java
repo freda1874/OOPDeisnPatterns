@@ -9,7 +9,10 @@ package pkgUnitConverter;
  * simple class to test 2 classes for converting Fahrenheit to Celsius and the
  * reverse
  *
- * @author kriger
+ * @author Lei Luo
+ * @version 2.0
+ * @see Units
+ * @since 1.0
  */
 public class UnitConverterTest {
 
